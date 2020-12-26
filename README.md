@@ -10,7 +10,7 @@ Clone of the **Netflix** homepage developed during the Bootcamp **HTML Web Devel
 
 - **HTML5**
 - **CSS3**
-- **jQuery** (com [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/))
+- **jQuery** ([Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/))
 
 ---
 
